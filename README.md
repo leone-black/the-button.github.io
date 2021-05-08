@@ -16,11 +16,10 @@
 
  - **CSS**
 
-There is no separation by file. Everything is in "index.html". The goal is to be as simple as possible.
-
-Eventually this project may receive updates to get better and better.
+This was done by a person with boredom.
 
 **Final**
 
 [Enter and see the result](https://gg-pedro.github.io/the-button.github.io/)
 
+*Please, if you don't know how to appreciate art, don't judge.*
